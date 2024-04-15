@@ -1,0 +1,15 @@
+C:\Users\v-masitati\Desktop\Class Demo\HashtableAssignmentcs101\HashtableClass\HashtableClass\bin\Debug\net8.0\HashtableClass.exe
+C:\Users\v-masitati\Desktop\Class Demo\HashtableAssignmentcs101\HashtableClass\HashtableClass\bin\Debug\net8.0\HashtableClass.deps.json
+C:\Users\v-masitati\Desktop\Class Demo\HashtableAssignmentcs101\HashtableClass\HashtableClass\bin\Debug\net8.0\HashtableClass.runtimeconfig.json
+C:\Users\v-masitati\Desktop\Class Demo\HashtableAssignmentcs101\HashtableClass\HashtableClass\bin\Debug\net8.0\HashtableClass.dll
+C:\Users\v-masitati\Desktop\Class Demo\HashtableAssignmentcs101\HashtableClass\HashtableClass\bin\Debug\net8.0\HashtableClass.pdb
+C:\Users\v-masitati\Desktop\Class Demo\HashtableAssignmentcs101\HashtableClass\HashtableClass\obj\Debug\net8.0\HashtableClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-masitati\Desktop\Class Demo\HashtableAssignmentcs101\HashtableClass\HashtableClass\obj\Debug\net8.0\HashtableClass.AssemblyInfoInputs.cache
+C:\Users\v-masitati\Desktop\Class Demo\HashtableAssignmentcs101\HashtableClass\HashtableClass\obj\Debug\net8.0\HashtableClass.AssemblyInfo.cs
+C:\Users\v-masitati\Desktop\Class Demo\HashtableAssignmentcs101\HashtableClass\HashtableClass\obj\Debug\net8.0\HashtableClass.csproj.CoreCompileInputs.cache
+C:\Users\v-masitati\Desktop\Class Demo\HashtableAssignmentcs101\HashtableClass\HashtableClass\obj\Debug\net8.0\HashtableClass.sourcelink.json
+C:\Users\v-masitati\Desktop\Class Demo\HashtableAssignmentcs101\HashtableClass\HashtableClass\obj\Debug\net8.0\HashtableClass.dll
+C:\Users\v-masitati\Desktop\Class Demo\HashtableAssignmentcs101\HashtableClass\HashtableClass\obj\Debug\net8.0\refint\HashtableClass.dll
+C:\Users\v-masitati\Desktop\Class Demo\HashtableAssignmentcs101\HashtableClass\HashtableClass\obj\Debug\net8.0\HashtableClass.pdb
+C:\Users\v-masitati\Desktop\Class Demo\HashtableAssignmentcs101\HashtableClass\HashtableClass\obj\Debug\net8.0\HashtableClass.genruntimeconfig.cache
+C:\Users\v-masitati\Desktop\Class Demo\HashtableAssignmentcs101\HashtableClass\HashtableClass\obj\Debug\net8.0\ref\HashtableClass.dll

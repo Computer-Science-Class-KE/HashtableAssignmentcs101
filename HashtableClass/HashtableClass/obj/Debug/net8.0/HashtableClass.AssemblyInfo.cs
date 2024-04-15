@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HashtableClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b28fd06fee2ad5a403dff310f4b37de415f40d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbb5c235eaf3d34fbf9aa8e38196f58ac197c9b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("HashtableClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HashtableClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

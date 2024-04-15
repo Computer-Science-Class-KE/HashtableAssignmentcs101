@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HashtableClass
 {
-    internal class Solution
+    public class Solution
     {
         public Solution()
         {
@@ -20,7 +20,7 @@ namespace HashtableClass
 
         public int Get(int key)
         {
-
+            return -2;
         }
 
         public void Remove(int key)
